@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-21T18:23:40Z" name="Default suite" finished-at="2022-01-21T18:23:47Z" duration-ms="6907">
+    <groups>
+    </groups>
+    <test started-at="2022-01-21T18:23:40Z" name="Default test" finished-at="2022-01-21T18:23:47Z" duration-ms="6907">
+      <class name="progressive.qa.auto.AutoQuoteTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:progressive.qa.auto.AutoQuoteTest@95e33cc]" started-at="2022-01-21T18:23:40Z" name="setUp" finished-at="2022-01-21T18:23:46Z" duration-ms="5596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="autoQuoteTesting()[pri:0, instance:progressive.qa.auto.AutoQuoteTest@95e33cc]" started-at="2022-01-21T18:23:46Z" name="autoQuoteTesting" finished-at="2022-01-21T18:23:47Z" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autoQuoteTesting -->
+        <test-method is-config="true" signature="quttingBrowser()[pri:0, instance:progressive.qa.auto.AutoQuoteTest@95e33cc]" started-at="2022-01-21T18:23:47Z" name="quttingBrowser" finished-at="2022-01-21T18:23:47Z" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quttingBrowser -->
+      </class> <!-- progressive.qa.auto.AutoQuoteTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
